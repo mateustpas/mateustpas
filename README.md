@@ -61,5 +61,5 @@
 </p>
 
 <p align="center">
-  📫 Entre em contato: <a href="mailto:mateustpas@gmail.com">mateustpas@gmail.com</a> · 
+  📫 Entre em contato: <a href="mailto:mtxpassos@gmail.com">mateustpas@gmail.com</a> · 
 </p>
